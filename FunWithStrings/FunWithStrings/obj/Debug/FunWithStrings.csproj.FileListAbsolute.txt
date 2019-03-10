@@ -1,0 +1,6 @@
+C:\Users\T.Mabs\Documents\Visual Studio 2017\Projects\FunWithStrings\FunWithStrings\bin\Debug\FunWithStrings.exe.config
+C:\Users\T.Mabs\Documents\Visual Studio 2017\Projects\FunWithStrings\FunWithStrings\bin\Debug\FunWithStrings.exe
+C:\Users\T.Mabs\Documents\Visual Studio 2017\Projects\FunWithStrings\FunWithStrings\bin\Debug\FunWithStrings.pdb
+C:\Users\T.Mabs\Documents\Visual Studio 2017\Projects\FunWithStrings\FunWithStrings\obj\Debug\FunWithStrings.csprojResolveAssemblyReference.cache
+C:\Users\T.Mabs\Documents\Visual Studio 2017\Projects\FunWithStrings\FunWithStrings\obj\Debug\FunWithStrings.exe
+C:\Users\T.Mabs\Documents\Visual Studio 2017\Projects\FunWithStrings\FunWithStrings\obj\Debug\FunWithStrings.pdb
